@@ -8,4 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
-lab2_files
+*_files
+lab3_results
